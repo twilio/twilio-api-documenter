@@ -1,1 +1,8 @@
 node_modules/
+.heft/
+common/temp/
+temp/
+
+# only pertinent to releases
+dist/
+lib/

@@ -5,12 +5,12 @@
 
   "apiReport": {
     "enabled": true,
-    "reportFolder": "../../../common/reviews/api"
+    "reportFolder": "../common/reviews/api"
   },
 
   "docModel": {
     "enabled": true,
-    "apiJsonFilePath": "../../../common/temp/api/<unscopedPackageName>.api.json"
+    "apiJsonFilePath": "../common/temp/api/<unscopedPackageName>.api.json"
   },
 
   "dtsRollup": {
