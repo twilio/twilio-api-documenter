@@ -1139,7 +1139,7 @@ export class MarkdownDocumenter {
           baseName = Utilities.getSafeFilenameForName(PackageName.getUnscopedName(hierarchyItem.displayName));
           break;
         default:
-          baseName += '.' + qualifiedName;
+          baseName += `.${qualifiedName}_${hierarchyItem.kind.toLocaleLowerCase()}`;
       }
     }
     return baseName + '.md';
