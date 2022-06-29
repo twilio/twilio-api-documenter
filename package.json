@@ -1,13 +1,11 @@
 {
-  "name": "@microsoft/api-documenter",
+  "name": "@twilio/twilio-api-documenter",
   "version": "7.17.24",
-  "description": "Read JSON files from api-extractor, generate documentation pages",
+  "description": "Generate documentation pages",
   "repository": {
     "type": "git",
-    "url": "https://github.com/microsoft/rushstack.git",
-    "directory": "apps/api-documenter"
+    "url": "https://github.com/twilio/twilio-api-documenter"
   },
-  "homepage": "https://api-extractor.com/",
   "license": "MIT",
   "scripts": {
     "build": "heft build --clean",
