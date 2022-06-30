@@ -1,6 +1,8 @@
 @microsoft/api-documenter
+@twilio/twilio-api-documenter
 
 Copyright (c) Microsoft Corporation. All rights reserved.
+Copyright (c) Twilio Inc. All rights reserved.
 
 MIT License
 
