@@ -1,6 +1,6 @@
 {
   "name": "@twilio/twilio-api-documenter",
-  "version": "7.17.24",
+  "version": "0.0.2",
   "description": "Generate documentation pages",
   "repository": {
     "type": "git",
@@ -17,6 +17,11 @@
   },
   "main": "lib/index.js",
   "typings": "dist/rollup.d.ts",
+  "files": [
+    "bin",
+    "lib",
+    "dist"
+  ],
   "dependencies": {
     "@microsoft/api-extractor-model": "^7.20.1",
     "@microsoft/tsdoc": "0.14.1",
