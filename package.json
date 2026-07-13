@@ -1,6 +1,6 @@
 {
   "name": "@twilio/twilio-api-documenter",
-  "version": "7.17.24",
+  "version": "0.0.2",
   "description": "Generate documentation pages",
   "repository": {
     "type": "git",
